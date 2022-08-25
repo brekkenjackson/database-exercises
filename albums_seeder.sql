@@ -1,4 +1,4 @@
-codeup_test_db
+USE codeup_test_db
 
 INSERT INTO albums (artist, name, release_date, genre, sales)
 VALUES
