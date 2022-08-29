@@ -1,4 +1,4 @@
-USE codeup_test_db
+use brekken;
 
 TRUNCATE albums;
 

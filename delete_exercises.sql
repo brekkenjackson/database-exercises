@@ -1,4 +1,4 @@
-USE codeup_test_db
+use brekken;
 
 --deletes all songs released after 1991
 DELETE FROM albums WHERE release_date > 1991;

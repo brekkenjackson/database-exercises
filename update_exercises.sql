@@ -1,4 +1,4 @@
-USE codeup_test_db;
+use brekken;
 
 -- selects albums sales and updates them by 10
 SELECT * FROM albums;

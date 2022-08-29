@@ -1,4 +1,4 @@
-USE codeup_test_db
+use brekken;
 
 -- outputs all song titles of the songs by Pink Floyd
 SELECT name FROM albums WHERE artist = 'Pink Floyd';

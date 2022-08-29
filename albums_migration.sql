@@ -1,4 +1,4 @@
-USE codeup_test_db;
+use brekken;
 
     CREATE TABLE  albums (
         id INT UNSIGNED NOT NULL AUTO_INCREMENT,
